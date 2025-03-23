@@ -40,11 +40,11 @@ function DisplayAlbum() {
       <div onClick={()=>playWithId(albumdata.id)} className=" grid grid-cols-4 gap-3 p-2 items-center text-[#a7a7a7] hover:bg-[#ffffff2b]">
         <p className=" text-white flex items-center">
           <b className=" mr-4 text-[#a7a7a7]">{albumdata.id}</b>
-          <img src={albumdata.image} className=" inline w-10 mr-5 h-10"></img>
+          <img src={albumdata.image} className=" hidden md:block w-10 mr-5 h-10"></img>
           <p>{albumdata.name}</p>
         </p>
         <p>{albumdata.desc}</p>
-        <p>3 days ago</p>
+        <p className=" hidden md:block">3 days ago</p>
         <p className=" text-center">{albumdata.duration}</p>
       </div>
     </>
