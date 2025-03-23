@@ -23,8 +23,8 @@ function Player() {
         <div className=" hidden lg:flex items-center gap-4">
           <img src={track.image} className=" w-12"></img>
           <div>
-            <p>{track.name.slice(0, 16) + "..."}</p>
-            <p>{track.desc.slice(0, 16) + "..."}</p>
+            <p>{track.name.slice(0, 10) + "..."}</p>
+            <p>{track.desc.slice(0, 10) + "..."}</p>
           </div>
         </div>
         <div className=" flex flex-col items-center gap-1 m-auto">

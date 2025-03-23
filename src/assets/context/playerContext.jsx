@@ -39,6 +39,7 @@ const PlayerContextProvider = (props) => {
         });
       };
     }, 1000);
+    return clearTimeout();
   }, [audioRef]);
 
   const play = () => {
