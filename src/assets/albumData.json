@@ -1,0 +1,92 @@
+[
+    {
+      "id": 0,
+      "name": "Good Bad Ugly Teaser Theme",
+      "desc": "Good Bad Ugly Teaser Theme-G.V.Prakash",
+      "image": "/images/a40aa9e71867473cd898d4b98c5b8d01.jpg",
+      "song": "/images/Good-Bad-Ugly-Teaser-Theme-MassTamilan.dev.mp3",
+      "duration":"3.59",
+      "bgColor":"#ffa600"
+    },
+    {
+      "id": 1,
+      "name": "Maatikkinaaru Ortharu",
+      "desc": "Pradeep Ranganathan",
+      "image": "/images/8ad54c1c6bf4cda16ca76e570c79a8d2.jpg",
+      "song": "/images/Maatikkinaaru Orutharu Dragon 320 Kbps.mp3",
+      "duration":"3.59",
+      "bgColor":"#0086ff"
+    },
+    {
+      "id": 2,
+      "name": "AUTOMOTIVO MANGOS",
+      "desc": "DJ BRZ 013",
+      "image": "/images/b3864f5cc90883201957d45c58ec35b2.jpg",
+      "song": "/images/Automotivo Mangoes Mp3 Download - MobCup.Com.Co.mp3",
+      "duration":"3.59",
+      "bgColor":"#ffef00"
+    },
+    {
+      "id": 3,
+      "name": "En Iniya Thanimaye",
+      "desc": "Teddy-Sid Sriram",
+      "image": "/images/b1c4355c01fc055b3cc1dab9f02a3a5e.jpg",
+      "song": "/images/En-Iniya-Thanimaye-MassTamilan.io.mp3",
+      "duration":"3.59",
+      "bgColor":"#2bc200"
+    },
+    {
+      "id": 4,
+      "name": "Pathikichu",
+      "desc": "Ajith Kumar",
+      "image": "/images/00003266e96d80e19bf7a7917c104524.jpg",
+      "song": "/images/Pathikichu.mp3",
+      "duration":"3.59",
+      "bgColor":"#ffa600 "
+    },
+    {
+      "id": 5,
+      "name": "Kudichadhu Podhumda Quit Pannuda",
+      "desc": "Master-Anirudh Ravichander",
+      "image": "/images/5b47003067c0c92063470e9722eeced0.jpg",
+      "song": "/images/Quit-Pannuda-MassTamilan.io.mp3",
+      "duration":"3.59",
+      "bgColor":"#ff8800"
+    },
+    {
+      "id": 6,
+      "name": "Naa ready",
+      "desc": "Thalapathy vijay",
+      "image": "/a5c91ee648f95147b944e32978a5c2dd.jpg",
+      "song": "/images/Naa Ready(KoshalWorld.Com).mp3",
+      "duration":"3.59",
+      "bgColor":"#ffe595"
+    },
+    {
+      "id": 7,
+      "name": "Paththavaikkum",
+      "desc": "Devara-Anirudh Ravichander",
+      "image": "/images/24e1de16881dd7de394f5564fff47730.jpg",
+      "song": "/images/Paththavaikkum.mp3",
+      "duration":"3.59",
+      "bgColor":"#007d34"
+    },
+    {
+      "id": 8,
+      "name": "Hukum-Thalaivar Alappara",
+      "desc": "Jailer-Rajinikanth",
+      "image": "/images/4ba360bf849cfb4ef159ec1f1ab6415f.jpg",
+      "song": "/images/Hukam - Karan Aujla.mp3",
+      "duration":"3.59",
+      "bgColor":"#ffcd00"
+    },
+    {
+      "id": 9,
+      "name": "Yendi Vittu Pona",
+      "desc": "Dragon-Leon James,Silambarasan Tr",
+      "image": "/images/b3e69a5ec60e4473b51fc8cba9173e9b.jpg",
+      "song": "/images/Yendi Vittu Pona.mp3",
+      "duration":"3.59",
+      "bgColor":"#c400ff"
+    }
+  ]
