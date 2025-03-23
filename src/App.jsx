@@ -9,8 +9,7 @@ function App() {
   useEffect(()=>{
     const timer = setTimeout(()=>{
       setPageReload(false)
-    },2000)
-    return ()=>clearTimeout(timer);
+    },3000)
   },[])
   return (
     <>

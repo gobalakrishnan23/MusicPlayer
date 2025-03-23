@@ -1,4 +1,5 @@
 import { useContext, useState } from "react";
+import { PlayerContext } from "../context/playerContext";
 // images
 import shuffle from "/icons8-shuffle-24.png";
 import prev from "/icons8-arrow-32.png";
@@ -11,7 +12,6 @@ import speaker from "/icons8-portable-speaker-48.png";
 import sound from "/icons8-speaker-24.png";
 import mini from "/icons8-ipad-mini-24.png";
 import zoom from "/icons8-decompress-50 (1).png";
-import { PlayerContext } from "../context/playerContext";
 
 function Player() {
   const { seekBar, seekBg, play, pause, playStatus, track,time,before,after,seekBgClick } =
